@@ -1,5 +1,7 @@
 # Docker doh-httpproxy
 
+```Upstream project is not anymore maintained so I will archive this project too```
+
 DOH httpproxy in Docker: https://pypi.org/project/doh-proxy/
 
 ```
